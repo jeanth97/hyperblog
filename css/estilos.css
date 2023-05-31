@@ -5,10 +5,18 @@ body {
 }
 
 #cabecera{
+    text-align: left;
+    color: white;
     width: 70%;
     padding: 1em;
+    background-color: blue;
     border: 1px solid;
     border-radius: 20px;
-    border-color: blue;
     margin: 0px auto;
+    box-shadow: 4px 5px 11px -5px rgb(0 0 0);
+}
+
+#subtitulo{
+    font-weight: 100;
+    margin-left: 40;
 }
