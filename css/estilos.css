@@ -2,6 +2,13 @@ body {
     color :black;
     text-align: center;
     font-family: "Arial";
-    border-radius: 1em;
+}
 
+#cabecera{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: blue;
+    margin: 0px auto;
 }
